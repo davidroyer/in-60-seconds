@@ -2,6 +2,18 @@
 
 ---
 
+## Code Example
+
+```js
+import Vue from 'vue'
+import Vue2Editor from 'vue2-editor'
+
+Vue.use(Vue2Editor)
+```
+
+@[1-2]
+@[4]
+
 ## Add Some Slide Candy
 
 ![IMAGE](assets/img/presentation.png)
